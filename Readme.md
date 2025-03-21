@@ -20,7 +20,8 @@ MONGO_URI="mongodb://127.0.0.1:27017/sms"
 
 ### Running and installation
 
-1. Clone github repo :
+1. Clone github repo : git@github.com:krishankanhaya/sms.git
+
 2. Setup .env for server
 3. Install dependancy for client and server : npm install
 4. Run project in client and server: npm run dev
